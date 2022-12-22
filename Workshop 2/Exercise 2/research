@@ -1,0 +1,12 @@
+Ujjwol Bahadur Magar
+ALT
+Browsers do not always display images. There are a number of situations in which a browser might not display images, such as:
+Non-visual browsers (such as those used by people with visual impairments)
+The user chooses not to display images (saving bandwidth, privacy reasons)
+The image is invalid or an unsupported type
+In these cases, the browser may replace the image with the text in the element's alt attribute. 
+For these reasons and others, provide a useful value for alt whenever possible.
+
+TITLE
+Its purpose is to describe the image textually so that search engines and screen readers 
+(software used by the visually impaired) can understand what they're viewing.
